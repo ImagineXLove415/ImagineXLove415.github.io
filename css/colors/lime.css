@@ -58,6 +58,10 @@
 .background-gradient {
   background: -webkit-linear-gradient(left, rgba(0, 218, 154, 0.9) 10%, rgba(0, 98, 208, 0.9) 90%);
 }
+
+.background-sponsors {
+  background: -webkit-linear-gradient(left, rgba(0, 218, 154, 0.9) 10%, rgba(0, 98, 208, 0.9) 90%);
+}
 /*
  ********************************
  *
