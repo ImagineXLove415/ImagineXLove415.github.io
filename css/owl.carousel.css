@@ -83,10 +83,10 @@
 }
 
 #slider .item img{
-	max-width: 196px;
-	max-height: 180px;
-	padding-left: 10px;
-	padding-right: 10px;
+	max-width: 210px;
+	max-height: 210px;
+	padding-left:10px;
+	padding-right:10px;
 }
 
 .customNavigation{
